@@ -1,6 +1,6 @@
 import cv2
 import numpy as np
-#hello
+#hello mukhi!
 img=cv2.imread("C:\\Users\\Admin\\football.jpg",cv2.IMREAD_GRAYSCALE)
 bit_planes=[]
 for i in range(8):

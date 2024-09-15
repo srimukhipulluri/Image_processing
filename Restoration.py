@@ -2,7 +2,7 @@ import numpy as np
 from PIL import Image
 import random
 import math
-#restoration file
+#restoration file new line
 im=Image.open('C:/Users/Admin/football.jpg').convert('L')
 
 size=im.size

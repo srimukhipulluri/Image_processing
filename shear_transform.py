@@ -1,6 +1,6 @@
 import cv2
 import numpy as np
-
+#new line
 img = cv2.imread("C:\\Users\\Admin\\football.jpg")
 rows, cols, _ = img.shape
 

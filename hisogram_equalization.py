@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
-
+#new line
 img=cv2.imread("C:\\Users\\Admin\\tony.jpg",0)
 hist1 = cv2.calcHist([img],[0],None,[256],[0,256])
 

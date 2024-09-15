@@ -1,6 +1,6 @@
 import cv2
 import numpy as np
-
+#new line
 img=cv2.imread("C:\\Users\\Admin\\football.jpg",cv2.IMREAD_GRAYSCALE)
 height,width=img.shape
 sliced_img=np.zeros((height,width),dtype=np.uint8)
