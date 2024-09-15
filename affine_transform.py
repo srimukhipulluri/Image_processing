@@ -1,5 +1,5 @@
 import cv2
-
+#hi
 img=cv2.imread("C:\\Users\\Admin\\football.jpg",cv2.IMREAD_GRAYSCALE)
 binary=cv2.threshold(img,140,255, cv2.THRESH_BINARY)[1]
 
