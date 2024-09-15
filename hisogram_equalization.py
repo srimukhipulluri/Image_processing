@@ -12,5 +12,5 @@ plt.subplot(221),plt.imshow(img)
 plt.subplot(222),plt.plot(hist1)
 plt.subplot(223),plt.imshow(img2)
 plt.subplot(224),plt.plot(hist2)
-
+#plt()
 plt.show()
